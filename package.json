@@ -1,0 +1,23 @@
+{
+  "name": "dstoon",
+  "version": "1.0.0",
+  "description": "A simple web-application for demoing various data structures and their associated alogorithms in a visualy pleasing manner",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/turingcreep/dstoon.git"
+  },
+  "keywords": [
+    "Data-structures",
+    "Algorithms"
+  ],
+  "author": "Shankar Sengupta",
+  "license": "GPL-2.0-only",
+  "bugs": {
+    "url": "https://github.com/turingcreep/dstoon/issues"
+  },
+  "homepage": "https://github.com/turingcreep/dstoon#readme"
+}
